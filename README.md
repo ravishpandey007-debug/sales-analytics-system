@@ -124,7 +124,7 @@ requests
 
 ▶️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/<Manitacbsa>/sales-analytics-system.git
+git clone https://github.com/ravishpandey007-debug/sales-analytics-system.git
 cd sales-analytics-system
 
 2️⃣ Ensure input file exists
