@@ -1,4 +1,9 @@
 📊 Sales Analytics System (Python)
+Student Name: Ravish Pandey  
+Student ID: bitsom_ba_25071413 
+Email: ravishpandey007@gmail.com  
+Date: 20.01.2026
+
 📌 Project Overview
 
 The Sales Analytics System is a Python-based application designed to process messy sales transaction data, enrich it with external API information, perform advanced analytics, and generate comprehensive business reports.
